@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Laura Klein founder of @FoxyShoptech.
+- 👋 Hi, I’m Laura Klein founder of FoxyShop.Tech.
 - 💞️ I am passionate about technology and innovation.
 - 📜 I have a degree in Multimedia Production and Design.
 - 🌱 I’m currently learning Web Development (Frontend)
