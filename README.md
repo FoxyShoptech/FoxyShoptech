@@ -1,3 +1,5 @@
+## Bem-vindo(a) ao perfil da FoxyShop.Tech 🦊😁
+
 - 👋 Hi, I’m Laura Klein founder of FoxyShop.Tech.
 - 💞️ I am passionate about technology and innovation.
 - 📜 I have a degree in Multimedia Production and Design.
@@ -10,8 +12,6 @@
 FoxyShoptech/FoxyShoptech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Bem-vindo(a) ao perfil da FoxyShop.Tech 🦊😁
-
  <div>
    <a href="https://github.com/foxyshoptech">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=foxyshoptech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
